@@ -1,4 +1,6 @@
-package com.example.cjj.myapplication.framework.base;
+package com.example.cjj.myapplication.framework.base.subscribe;
+
+import com.example.cjj.myapplication.framework.base.BaseView;
 
 /**
  * Created by yxm on 2017/6/19.
